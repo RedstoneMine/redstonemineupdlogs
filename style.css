@@ -1,0 +1,25 @@
+body{
+    color: white;
+    background: linear-gradient(135deg,#0a0a0a 0%,#2b0000 35%,#5a0000 50%,#1a0000 70%,#000000 100%);
+    background-size: 300% 300%;
+    animation: bgMove 12s ease infinite;
+    font-weight:bold;
+    font-family: 'Pangolin', cursive;
+    padding: 30px;
+}
+header{
+   font-size: 30px;
+   text-align: center;
+}
+.u1{
+   width: fit-content;
+   margin: 0;
+   padding: 5px;
+   border-bottom: 2px solid white;
+   word-break: break-all;
+}
+.u1 h2{
+   word-spacing: 10px;
+   margin: 8px 0;
+   text-align: left;
+}
