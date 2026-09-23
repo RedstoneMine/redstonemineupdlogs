@@ -47,4 +47,16 @@ header{
    margin: 8px 0;
    text-align: left;
 }
+.u4{
+   width: fit-content;
+   margin: 0;
+   padding: 5px;
+   border-bottom: 2px solid white;
+   word-break: break-all;
+}
+.u4 h2{
+   word-spacing: 10px;
+   margin: 8px 0;
+   text-align: left;
+}
 
